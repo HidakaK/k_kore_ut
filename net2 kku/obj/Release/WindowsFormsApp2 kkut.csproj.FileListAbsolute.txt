@@ -1,0 +1,11 @@
+C:\Users\mac\Desktop\net2 kku\bin\Release\WindowsFormsApp2 kkut.exe.config
+C:\Users\mac\Desktop\net2 kku\bin\Release\WindowsFormsApp2 kkut.exe
+C:\Users\mac\Desktop\net2 kku\bin\Release\WindowsFormsApp2 kkut.pdb
+C:\Users\mac\Desktop\net2 kku\obj\Release\WindowsFormsApp2 kkut.csprojAssemblyReference.cache
+C:\Users\mac\Desktop\net2 kku\obj\Release\WindowsFormsApp2_kkut.Form1.resources
+C:\Users\mac\Desktop\net2 kku\obj\Release\WindowsFormsApp2_kkut.Form2.resources
+C:\Users\mac\Desktop\net2 kku\obj\Release\WindowsFormsApp2_kkut.Form3.resources
+C:\Users\mac\Desktop\net2 kku\obj\Release\WindowsFormsApp2_kkut.Properties.Resources.resources
+C:\Users\mac\Desktop\net2 kku\obj\Release\WindowsFormsApp2 kkut.csproj.GenerateResource.cache
+C:\Users\mac\Desktop\net2 kku\obj\Release\WindowsFormsApp2 kkut.exe
+C:\Users\mac\Desktop\net2 kku\obj\Release\WindowsFormsApp2 kkut.pdb
